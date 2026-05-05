@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base application theme used by non-Compose views (e.g. splash). -->
+    <style name="Theme.PortTunnel" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
